@@ -1,7 +1,3 @@
 # Google Securty Certificate Projects
 
-Began course on 7/5/23
-
-# First Project
-
-Yes, here it is.
+Began course on 7/5/23.
