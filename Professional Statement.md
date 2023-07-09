@@ -1,4 +1,4 @@
-Professional Statement
+# Professional Statement
 
 With a longstanding interest in cybersecurity and a seasoned background in technology, my career has been shaped by continuous learning and adaptability. I've spent considerable time honing my web development skills, and am excited to improve my ability to construct secure, robust digital frameworks. Equally, my competence in project management enables me to align cybersecurity strategies effectively with organizational goals, and my experience in IT troubleshooting underlines my proficiency in identifying and rectifying vulnerabilities.
 
