@@ -1,4 +1,4 @@
-# Google Securty Certificate Projects
+# Google Security Certificate Projects
 
 Began course on 7/5/23.
 Very exciting.
